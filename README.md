@@ -1,6 +1,6 @@
 <h2 align="center">Buy_InternetCafe-MovieTicket</h2>
 <div align="center">
-  <img src="" width="300">
+  <img src="https://i.pinimg.com/1200x/77/83/b4/7783b41461d0820d5b3a2c66d92ce765.jpg" width="300">
 <hr>
 
 **Project Overview:** The system includes Modules: automatically download playtime, buy drinks, buy movie tickets, buy scratch cards, computer room diagram, change password, personal information, theater food combo, administrator , etc. Customers can deposit money for purchases and deduct money directly from the system and store activities in the transaction history
