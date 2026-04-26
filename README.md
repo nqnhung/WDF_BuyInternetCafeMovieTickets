@@ -7,8 +7,8 @@
 
 **📂 Project Assets**
 
-[![Source Code](https://img.shields.io/badge/User%20Stories-D35400?style=for-the-badge&logo=googledocs&logoColor=white)]()
-[![Database Script](https://img.shields.io/badge/Test%20Cases%20(Module%201)-2E86C1?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
-[![Database Script](https://img.shields.io/badge/Test%20Plan-239B56?style=for-the-badge&logo=read-the-docs&logoColor=white)]()
-![UI Screenshot]()
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-27AE60?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/nqnhung/WDF_BuyInternetCafeMovieTickets/tree/main/InternetShop)
+[![Database Script](https://img.shields.io/badge/DATABASE_SCRIPT-2980B9?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](LINK_DEN_FILE_SQL_CUA_NHUNG)
+[![System Logic](https://img.shields.io/badge/SYSTEM_LOGIC-2980B9?style=for-the-badge&logo=blueprint&logoColor=white)](https://github.com/nqnhung/WDF_BuyInternetCafeMovieTickets/blob/main/README.md#key-modules)
+[![UI Screenshot](https://img.shields.io/badge/UI_SCREENSHOT-9B59B6?style=for-the-badge&logo=googlephotos&logoColor=white)](#)
 </div>
